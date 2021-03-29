@@ -1,0 +1,6 @@
+panel 
+---
+-incluir logo
+  opciones de perfil i salir
+barra de opciones 
+ estado de la informacion
